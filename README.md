@@ -1,2 +1,4 @@
 # JavaPrograms
-General java programs coded for programming tests or assessments.
+This repository contains the following 
+1) General java programs coded for programming tests
+2) General java concepts with examples
