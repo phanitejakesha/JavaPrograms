@@ -1,7 +1,7 @@
 import java.io.*; 
 import java.util.*; 
 
-public class HelloWorld{ 
+public class stackProblem{
      public static void main(String []args){
         System.out.println("Hello World");
         Stack<Integer> list = new Stack<Integer>(); 
@@ -61,3 +61,4 @@ public class HelloWorld{
         System.out.println(list.peek());
      }
 }
+
